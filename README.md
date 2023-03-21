@@ -21,6 +21,22 @@ To execute the file `election_scraper.py` in terminal, two arguments are require
 python3 election_scraper.py <city-name> <output-file> 
 ```
 
+where `<city-name>` can be one of the following:
+
+```
+Praha, Benešov, Beroun, Kladno, Kolín, Kutná Hora, Mělník, Mladá Boleslav, 
+Nymburk, Praha-východ, Praha-západ, Příbram, Rakovník, Zahraničí, 
+České Budějovice, Český Krumlov, Jindřichův Hradec, Písek, Prachatice, 
+Strakonice, Tábor, Domažlice, Klatovy, Plzeň-město, Plzeň-jih, Plzeň-sever, 
+Rokycany, Tachov, Cheb, Karlovy Vary, Sokolov, Děčín, Chomutov, Litoměřice, 
+Louny, Most, Teplice, Ústí nad Labem, Česká Lípa, Jablonec nad Nisou, Liberec, 
+Semily, Hradec Králové, Jičín, Náchod, Rychnov nad Kněžnou, Trutnov, Chrudim, 
+Pardubice, Svitavy, Ústí nad Orlicí, Havlíčkův Brod, Jihlava, Pelhřimov, Třebíč, 
+Žďár nad Sázavou, Blansko, Brno-město, Brno-venkov, Břeclav, Hodonín, Vyškov, 
+Znojmo, Jeseník, Olomouc, Prostějov, Přerov, Šumperk, Kroměříž, Uherské Hradiště, 
+Vsetín, Zlín, Bruntál, Frýdek-Místek, Karviná, Nový Jičín, Opava, Ostrava-město
+```
+
 Consequently, the results will be saved into a `.csv` file.
 
 ## Project execution example
